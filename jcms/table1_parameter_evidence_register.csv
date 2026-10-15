@@ -1,0 +1,13 @@
+Quantity,Base value,Status and interpretation
+Reference inventory μ,"316,912 tCO₂e","Reported organiser inventory; UEFA (2024c), PDF p. 12; dimensional anchor"
+Announced funding scale,"€7,925,000",Reported programme scale; not an audited all-in donor budget
+Reported investment,"€7,923,013",Published status at 1 June 2025
+Rate × inventory,"€7,922,800",Derived arithmetic; kept separate from both totals
+Published rate; model p,€25/tCO₂e,Observed pledge; derivative cap separately imposed
+Reporting dispersion σ/μ,10%,Hypothetical base; no error distribution estimated
+Uniform half-width h,"54,890.77 tCO₂e",Derived scenario: h=3σ
+Target obligation q,€18.75/tCO₂e,"Chosen local target, not a behavioural elasticity"
+Tested advance H,"€7,132,500",90% of monetary scale; not observed recipient need
+Hard donor cap U,"€8,717,500",110% of monetary scale; not a documented UEFA cap
+"Donor costs κ,V",0; €0,Zero-cost base; positive costs tested separately
+Actual cash gaps and credit,Unobserved,"Requires dated outlays, transfers and available resources"

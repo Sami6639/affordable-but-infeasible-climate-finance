@@ -1,0 +1,811 @@
+{
+  "manuscript_sha256": "5005ba0fb34c0f3b8a13cfb20ad20ffcae6acf21e4434dddebf468f91ce220bd",
+  "checks_passed": 134,
+  "checks_total": 134,
+  "checks": [
+    {
+      "item": "table count including A1",
+      "actual": 6,
+      "expected": 6,
+      "passed": true
+    },
+    {
+      "item": "figure count",
+      "actual": 4,
+      "expected": 4,
+      "passed": true
+    },
+    {
+      "item": "Table 2 row count",
+      "actual": 6,
+      "expected": 6,
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 1 column 1",
+      "actual": "Lower mean",
+      "expected": "Lower mean",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 1 column 2",
+      "actual": "Exact",
+      "expected": "Exact",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 1 column 3",
+      "actual": "-0.150",
+      "expected": "-0.150",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 1 column 4",
+      "actual": "1.650",
+      "expected": "1.650",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 1 column 5",
+      "actual": "1.000",
+      "expected": "1.000",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 1 column 6",
+      "actual": "0.316",
+      "expected": "0.316",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 2 column 1",
+      "actual": "Lower mean",
+      "expected": "Lower mean",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 2 column 2",
+      "actual": "Ceiling",
+      "expected": "Ceiling",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 2 column 3",
+      "actual": "-0.150",
+      "expected": "-0.150",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 2 column 4",
+      "actual": "Not required",
+      "expected": "Not required",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 2 column 5",
+      "actual": "1.000",
+      "expected": "1.000",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 2 column 6",
+      "actual": "0.316",
+      "expected": "0.316",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 3 column 1",
+      "actual": "Upper mean",
+      "expected": "Upper mean",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 3 column 2",
+      "actual": "Exact",
+      "expected": "Exact",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 3 column 3",
+      "actual": "1.650",
+      "expected": "1.650",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 3 column 4",
+      "actual": "-0.150",
+      "expected": "-0.150",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 3 column 5",
+      "actual": "1.000",
+      "expected": "1.000",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 3 column 6",
+      "actual": "0.316",
+      "expected": "0.316",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 4 column 1",
+      "actual": "Upper mean",
+      "expected": "Upper mean",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 4 column 2",
+      "actual": "Ceiling",
+      "expected": "Ceiling",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 4 column 3",
+      "actual": "1.650",
+      "expected": "1.650",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 4 column 4",
+      "actual": "Not required",
+      "expected": "Not required",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 4 column 5",
+      "actual": "1.000",
+      "expected": "1.000",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 4 column 6",
+      "actual": "1.000",
+      "expected": "1.000",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 5 column 1",
+      "actual": "Peak span",
+      "expected": "Peak span",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 5 column 2",
+      "actual": "Exact",
+      "expected": "Exact",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 5 column 3",
+      "actual": "0.125",
+      "expected": "0.125",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 5 column 4",
+      "actual": "0.125",
+      "expected": "0.125",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 5 column 5",
+      "actual": "-0.250",
+      "expected": "-0.250",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 5 column 6",
+      "actual": "0.375",
+      "expected": "0.375",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 6 column 1",
+      "actual": "Peak span",
+      "expected": "Peak span",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 6 column 2",
+      "actual": "Ceiling",
+      "expected": "Ceiling",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 6 column 3",
+      "actual": "0.125",
+      "expected": "0.125",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 6 column 4",
+      "actual": "Not required",
+      "expected": "Not required",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 6 column 5",
+      "actual": "-0.250",
+      "expected": "-0.250",
+      "passed": true
+    },
+    {
+      "item": "Table 2 row 6 column 6",
+      "actual": "0.375",
+      "expected": "0.375",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row count",
+      "actual": 9,
+      "expected": 9,
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 1 column 1",
+      "actual": "1.05",
+      "expected": "1.05",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 1 column 2",
+      "actual": "0%",
+      "expected": "0%",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 1 column 3",
+      "actual": "0",
+      "expected": "0",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 1 column 4",
+      "actual": "Infeasible",
+      "expected": "Infeasible",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 1 column 5",
+      "actual": "6,262,846",
+      "expected": "6,262,846",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 2 column 1",
+      "actual": "1.05",
+      "expected": "1.05",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 2 column 2",
+      "actual": "2%",
+      "expected": "2%",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 2 column 3",
+      "actual": "25,000",
+      "expected": "25,000",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 2 column 4",
+      "actual": "Infeasible",
+      "expected": "Infeasible",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 2 column 5",
+      "actual": "6,115,535",
+      "expected": "6,115,535",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 3 column 1",
+      "actual": "1.05",
+      "expected": "1.05",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 3 column 2",
+      "actual": "5%",
+      "expected": "5%",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 3 column 3",
+      "actual": "100,000",
+      "expected": "100,000",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 3 column 4",
+      "actual": "Infeasible",
+      "expected": "Infeasible",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 3 column 5",
+      "actual": "5,869,377",
+      "expected": "5,869,377",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 4 column 1",
+      "actual": "1.10",
+      "expected": "1.10",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 4 column 2",
+      "actual": "0%",
+      "expected": "0%",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 4 column 3",
+      "actual": "0",
+      "expected": "0",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 4 column 4",
+      "actual": "6,659,096",
+      "expected": "6,659,096",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 4 column 5",
+      "actual": "6,659,096",
+      "expected": "6,659,096",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 5 column 1",
+      "actual": "1.10",
+      "expected": "1.10",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 5 column 2",
+      "actual": "2%",
+      "expected": "2%",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 5 column 3",
+      "actual": "25,000",
+      "expected": "25,000",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 5 column 4",
+      "actual": "6,504,016",
+      "expected": "6,504,016",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 5 column 5",
+      "actual": "6,504,016",
+      "expected": "6,504,016",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 6 column 1",
+      "actual": "1.10",
+      "expected": "1.10",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 6 column 2",
+      "actual": "5%",
+      "expected": "5%",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 6 column 3",
+      "actual": "100,000",
+      "expected": "100,000",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 6 column 4",
+      "actual": "6,246,758",
+      "expected": "6,246,758",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 6 column 5",
+      "actual": "6,246,758",
+      "expected": "6,246,758",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 7 column 1",
+      "actual": "1.20",
+      "expected": "1.20",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 7 column 2",
+      "actual": "0%",
+      "expected": "0%",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 7 column 3",
+      "actual": "0",
+      "expected": "0",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 7 column 4",
+      "actual": "7,153,099",
+      "expected": "7,153,099",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 7 column 5",
+      "actual": "7,153,099",
+      "expected": "7,153,099",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 8 column 1",
+      "actual": "1.20",
+      "expected": "1.20",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 8 column 2",
+      "actual": "2%",
+      "expected": "2%",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 8 column 3",
+      "actual": "25,000",
+      "expected": "25,000",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 8 column 4",
+      "actual": "6,988,332",
+      "expected": "6,988,332",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 8 column 5",
+      "actual": "6,988,332",
+      "expected": "6,988,332",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 9 column 1",
+      "actual": "1.20",
+      "expected": "1.20",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 9 column 2",
+      "actual": "5%",
+      "expected": "5%",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 9 column 3",
+      "actual": "100,000",
+      "expected": "100,000",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 9 column 4",
+      "actual": "6,717,237",
+      "expected": "6,717,237",
+      "passed": true
+    },
+    {
+      "item": "Table 3 row 9 column 5",
+      "actual": "6,717,237",
+      "expected": "6,717,237",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row count",
+      "actual": 8,
+      "expected": 8,
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 1 column 1",
+      "actual": "5.0",
+      "expected": "5.0",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 1 column 2",
+      "actual": "Pass",
+      "expected": "Pass",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 1 column 3",
+      "actual": "Pass",
+      "expected": "Pass",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 1 column 4",
+      "actual": "Yes",
+      "expected": "Yes",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 1 column 5",
+      "actual": "95.130",
+      "expected": "95.130",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 2 column 1",
+      "actual": "7.5",
+      "expected": "7.5",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 2 column 2",
+      "actual": "Pass",
+      "expected": "Pass",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 2 column 3",
+      "actual": "Pass",
+      "expected": "Pass",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 2 column 4",
+      "actual": "Yes",
+      "expected": "Yes",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 2 column 5",
+      "actual": "90.520",
+      "expected": "90.520",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 3 column 1",
+      "actual": "7.70014",
+      "expected": "7.70014",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 3 column 2",
+      "actual": "Pass",
+      "expected": "Pass",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 3 column 3",
+      "actual": "Pass",
+      "expected": "Pass",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 3 column 4",
+      "actual": "Yes",
+      "expected": "Yes",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 3 column 5",
+      "actual": "90.000",
+      "expected": "90.000",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 4 column 1",
+      "actual": "10.0",
+      "expected": "10.0",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 4 column 2",
+      "actual": "Pass",
+      "expected": "Pass",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 4 column 3",
+      "actual": "Fail",
+      "expected": "Fail",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 4 column 4",
+      "actual": "Yes",
+      "expected": "Yes",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 4 column 5",
+      "actual": "84.026",
+      "expected": "84.026",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 5 column 1",
+      "actual": "10.26685",
+      "expected": "10.26685",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 5 column 2",
+      "actual": "Pass",
+      "expected": "Pass",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 5 column 3",
+      "actual": "Fail",
+      "expected": "Fail",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 5 column 4",
+      "actual": "Yes",
+      "expected": "Yes",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 5 column 5",
+      "actual": "83.333",
+      "expected": "83.333",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 6 column 1",
+      "actual": "12.5",
+      "expected": "12.5",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 6 column 2",
+      "actual": "Fail",
+      "expected": "Fail",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 6 column 3",
+      "actual": "Fail",
+      "expected": "Fail",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 6 column 4",
+      "actual": "No",
+      "expected": "No",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 6 column 5",
+      "actual": "77.533",
+      "expected": "77.533",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 7 column 1",
+      "actual": "15.0",
+      "expected": "15.0",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 7 column 2",
+      "actual": "Fail",
+      "expected": "Fail",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 7 column 3",
+      "actual": "Fail",
+      "expected": "Fail",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 7 column 4",
+      "actual": "No",
+      "expected": "No",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 7 column 5",
+      "actual": "71.040",
+      "expected": "71.040",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 8 column 1",
+      "actual": "20.0",
+      "expected": "20.0",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 8 column 2",
+      "actual": "Fail",
+      "expected": "Fail",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 8 column 3",
+      "actual": "Fail",
+      "expected": "Fail",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 8 column 4",
+      "actual": "No",
+      "expected": "No",
+      "passed": true
+    },
+    {
+      "item": "Table 5 row 8 column 5",
+      "actual": "58.053",
+      "expected": "58.053",
+      "passed": true
+    },
+    {
+      "item": "Figure 1 SHA256",
+      "actual": "328b4dbdafd1057683a34f37cc3a867530d9fd1c2373bab8d1dcdc27f79a0ba9",
+      "expected": "328b4dbdafd1057683a34f37cc3a867530d9fd1c2373bab8d1dcdc27f79a0ba9",
+      "passed": true
+    },
+    {
+      "item": "Figure 2 SHA256",
+      "actual": "1ac458b3fc43d17033f3fc80b9258fb85a81af9bdf6f9cfbab71a6a0f5563b6d",
+      "expected": "1ac458b3fc43d17033f3fc80b9258fb85a81af9bdf6f9cfbab71a6a0f5563b6d",
+      "passed": true
+    },
+    {
+      "item": "Figure 3 SHA256",
+      "actual": "239583f7cc9059c7c0344f2e89327d227391aab76d3c0db646002148836b00d1",
+      "expected": "239583f7cc9059c7c0344f2e89327d227391aab76d3c0db646002148836b00d1",
+      "passed": true
+    },
+    {
+      "item": "Figure 4 SHA256",
+      "actual": "a521e99a9fd8db180fedc1853a70b12cb7d00c41f7dce593eab08acfc178fb1d",
+      "expected": "a521e99a9fd8db180fedc1853a70b12cb7d00c41f7dce593eab08acfc178fb1d",
+      "passed": true
+    },
+    {
+      "item": "reported result 84.026%",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "item": "reported result €473,403.82",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "item": "reported result 263,119.82",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "item": "reported result 345,455.97",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    }
+  ]
+}
